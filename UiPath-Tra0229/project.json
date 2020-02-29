@@ -1,7 +1,7 @@
 {
   "name": "UiPath-Tra0229",
   "description": "0229開始トレーニング",
-  "main": "Main.xaml",
+  "main": "Mami\\トレーニング用フローチャート.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.Mail.Activities": "[1.7.2]",
@@ -29,7 +29,8 @@
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
-    }
+    },
+    "fileInfos": []
   },
   "expressionLanguage": "VisualBasic"
 }
